@@ -6,6 +6,13 @@ Este repositório tem os cadernos de aula preparados para as aulas do evento [Wo
 
 Durante o [X-meeting 2023](https://www.x-meeting.com/events/xm2023), alguns colaboradores ajudaram a tornar os cadernos mais FAIR (encontráveis, acessíveis, intercambiáveis e reutilizáveis) como parte do minicurso "ELIXIR Work-on FAIR training materials".
 
+### Conteúdo
+**Dia 1:** introdução à programação
+
+**Dia 2:** introdução à biblioteca pandas
+
+**Dia 3:** introdução à biblioteca matplotlib
+
 
 ## Autores
 
