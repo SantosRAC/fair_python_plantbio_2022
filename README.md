@@ -10,7 +10,7 @@ fair python plantbio 2022
 
 Envolvidos na produção dos cadernos em 2022:
 
- - [Alicia Lie de Melo]()
+ - [Alicia Lie de Melo](https://figshare.com/authors/Gede_Primahadi_Wijaya_Rajeg/1234749) <a itemprop="sameAs" content="https://orcid.org/0000-0002-1712-5868" href="https://orcid.org/0000-0002-1712-5868" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
  - [Luá Timpone]()
  - [Beatriz]()
  - [João]()
