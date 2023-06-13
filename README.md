@@ -27,5 +27,12 @@ Envolvidos na "FAIRização" dos cadernos:
  - Gabriel Antunes Lima ([ORCID](https://orcid.org/0009-0007-1278-8527))
  - Rayana Feltrin ([ORCID](https://orcid.org/0000-0002-4656-9062))
 
-## Licensa
+## Como contribuir
+
+ * Pedimos que abra novos `issues` para sugestões de alteração ou feedbacks
+ * Dê um `pull request` para solicitação de correções ou alterações diretas de códigos ou bugs
+ * Crie um `fork para criar seu próprio material a partir do que está disponível neste repositório
+
+## Licença
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
