@@ -12,11 +12,11 @@ Durante o [X-meeting 2023](https://www.x-meeting.com/events/xm2023), alguns cola
 Envolvidos na produção dos cadernos em 2022:
 
  - [Alicia Lie de Melo]()
- - [Luá Timpone]()
- - [Beatriz]()
- - [João]()
- - [Marcos]()
- - [Marina]()
+ - [Luá Taibo Timpone]()
+ - [Beatriz Rodrigues Estevam]()
+ - [João Ricardo Vieira Manechini]()
+ - [Marcos Vinicius Dantas-Queiroz]()
+ - [Marina A. Gavassi]()
 
 Envolvidos na "FAIRização" dos cadernos:
 
