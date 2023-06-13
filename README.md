@@ -11,13 +11,13 @@ Durante o [X-meeting 2023](https://www.x-meeting.com/events/xm2023), alguns cola
 
 Envolvidos na produção dos cadernos em 2022:
 
- - [Alicia Lie de Melo]()
- - [Luá Taibo Timpone]()
- - [Beatriz Rodrigues Estevam]()
- - [João Ricardo Vieira Manechini]()
- - [Marcos Vinicius Dantas-Queiroz]()
- - [Marina A. Gavassi]()
- - [Bruno Henrique Valdambrini Vieira]()
+ - Alicia Lie de Melo ([ORCID](https://orcid.org/0000-0002-1712-5868))
+ - Luá Taibo Timpone ([ORCID](https://orcid.org/0000-0003-0524-7208))
+ - Beatriz Rodrigues Estevam ([ORCID](https://orcid.org/0000-0003-4087-1030)
+ - João Ricardo Vieira Manechini ([ORCID](https://orcid.org/0000-0002-6450-2355))
+ - Marcos Vinicius Dantas-Queiroz ([ORCID](https://orcid.org/0000-0002-5444-8121))
+ - Marina A. Gavassi ([ORCID](https://orcid.org/0000-0001-8296-0555))
+ - Bruno Henrique Valdambrini Vieira ([ORCID](https://orcid.org/0000-0002-0547-9255))
 
 Envolvidos na "FAIRização" dos cadernos:
 
