@@ -17,6 +17,7 @@ Envolvidos na produção dos cadernos em 2022:
  - [João Ricardo Vieira Manechini]()
  - [Marcos Vinicius Dantas-Queiroz]()
  - [Marina A. Gavassi]()
+ - [Bruno Henrique Valdambrini Vieira]()
 
 Envolvidos na "FAIRização" dos cadernos:
 
