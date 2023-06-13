@@ -4,7 +4,7 @@
 
 Este repositório tem os cadernos de aula preparados para as aulas do evento [Workshop de Python para Dados de Biologia Vegetal em 2022](https://python4plantdatabr.wixsite.com/wspythonplantbio2022), que teve como objetivo ensinar introdução à programação na linguagem Python para pesquisadores na área de Biologia Vegetal, com pouca ou nenhuma experiência prévia em computação.
 
-Durante o [X-meeting 2023](https://www.x-meeting.com/events/xm2023), alguns colaboradores ajudaram a tornar os cadernos mais FAIR (encontrável, acessíveis, intercambiáveis e reutilizáveis) como parte do minicurso "ELIXIR Work-on FAIR training materials".
+Durante o [X-meeting 2023](https://www.x-meeting.com/events/xm2023), alguns colaboradores ajudaram a tornar os cadernos mais FAIR (encontráveis, acessíveis, intercambiáveis e reutilizáveis) como parte do minicurso "ELIXIR Work-on FAIR training materials".
 
 
 ## Autores
