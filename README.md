@@ -1,3 +1,9 @@
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/653252966.svg)](https://zenodo.org/badge/latestdoi/653252966)
+
+
+
 # FAIR Workshop de Python para Dados de Biologia Vegetal 2022
 
 ## Material de aula do Workshop de Python para Dados de Biologia Vegetal 2022
@@ -40,6 +46,4 @@ Envolvidos na "FAIRização" dos cadernos:
  * Dê um `pull request` para solicitação de correções ou alterações diretas de códigos ou bugs
  * Crie um `fork` para criar seu próprio material a partir do que está disponível neste repositório
 
-## Licença
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
