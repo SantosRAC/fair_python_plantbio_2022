@@ -31,7 +31,7 @@ Envolvidos na "FAIRização" dos cadernos:
 
  * Pedimos que abra novos `issues` para sugestões de alteração ou feedbacks
  * Dê um `pull request` para solicitação de correções ou alterações diretas de códigos ou bugs
- * Crie um `fork para criar seu próprio material a partir do que está disponível neste repositório
+ * Crie um `fork` para criar seu próprio material a partir do que está disponível neste repositório
 
 ## Licença
 
